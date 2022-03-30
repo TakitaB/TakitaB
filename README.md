@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on data science stuff!
+- 🔭 I’m currently working on data science projects!
+- 🌱 I’m on a continuous learning journey exploring the wonderfully creative ways ML/DL can be applied to the Fashion industry and Creative sectors.
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: The Eiffel Tower can be upto 15cm taller during the summer 🌞
 
 <!--
 **TakitaB/TakitaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
