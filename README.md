@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on data science projects!
-- 🌱 I’m on a continuous learning journey exploring the wonderfully creative ways ML/DL can be applied to the Fashion industry and Creative sectors.
+- 🌱 I’m on a continuous learning journey exploring the wonderfully creative ways STEM can be applied to the Fashion industry and Creative sectors.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: The Eiffel Tower can be upto 15cm taller during the summer 🌞
 
